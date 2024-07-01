@@ -2,6 +2,9 @@
 
 
 A pong , I made in python with simple AI. 
+
 W: move left paddle up. 
+
 D: move left paddle down.
+
 The first side that get the 5 scores first Win!!!
